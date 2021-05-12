@@ -7,7 +7,7 @@ public class LocalVariableTest {
 		if (true) {
 			int x = 34;
 			if(true) {
-				 x = 34;
+				 x = 38;
 				
 			}
 		}
